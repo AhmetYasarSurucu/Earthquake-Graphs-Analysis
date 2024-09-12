@@ -1,6 +1,7 @@
 Deprem Grafikleri Analizi / Earthquake Graphs Analysis
 
  ![image](https://github.com/user-attachments/assets/fa1a0f33-dd5e-4036-8a2c-34f61c9adeaa)
+
 English Analysis
 1. Earthquake Count by Year
 Trend Overview: The bar chart shows the number of earthquakes recorded annually from 1901 to 2017. For the first half of the 20th century, the number of earthquakes remained relatively low and stable. After the 1960s, there is a noticeable increase in earthquake counts, with significant fluctuations in certain years.
